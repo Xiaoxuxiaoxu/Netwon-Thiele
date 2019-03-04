@@ -6,7 +6,7 @@ Python code implementation of Netwon-Thiele interpolation algorithm：
 Demo：
 run Netwon_Taylor.py
 
-Input:
+Input:  
 X, Y and x
 
 Output:
