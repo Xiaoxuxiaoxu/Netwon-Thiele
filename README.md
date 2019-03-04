@@ -1,15 +1,16 @@
-Netwon-Thiele插值算法的python代码实现：
+Python code implementation of Netwon-Thiele interpolation algorithm：
 
-算法逻辑：
-1. 若逆差商运算分母不为0，使用Netwon-Thiele插值
-2. 若逆差商运算分母为0，使用Netwon-Taylor插值
+1. If the denominator of the deficit quotient is not 0, we use Netwon-Thiele interpolation.
+2. If the derivation denominator is 0, we use Netwon-Taylor interpolation instead.
 
-运行：
-直接运行Netwon_Taylor.py即可，可以根据自己需求修改对应的值，代码中的已知点为：
+Demo：
+run Netwon_Taylor.py
 
-X  1  3  6  2
-Y  4  12 39 7
+Input:
+X,Y and x
+Output:
+predicted value at x
 
-x = 10  
+You can change X, Y and x depending on your application.
 
-该函数是f(x)=x*x+3
+
