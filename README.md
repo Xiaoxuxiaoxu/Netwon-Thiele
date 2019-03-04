@@ -7,7 +7,7 @@ Demo：
 run Netwon_Taylor.py
 
 Input:
-X,Y and x
+X, Y and x
 
 Output:
 predicted value at x
